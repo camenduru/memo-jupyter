@@ -6,7 +6,7 @@
 
 | Notebook | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/memo-jupyter/blob/main/memo_jupyter.ipynb) | memo_jupyter
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/memo-jupyter/blob/main/memo_jupyter.ipynb) | memo_jupyter (Pro Colab 😭)
 
 ### 🧬 Code
 https://github.com/memoavatar/memo
